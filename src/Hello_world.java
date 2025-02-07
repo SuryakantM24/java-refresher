@@ -8,6 +8,10 @@ public class  Hello_world {
         System.out.println("Feature 1 added");
     }
 
+
+    // javac Test java :- output Test.class
+    // java Test :- it runs
+
 }
 
 
