@@ -1,0 +1,41 @@
+1)  Largest element
+2)  Second Largest element
+3)  Check if Array is Sorted
+4)  Reverse Array
+5)  Remove Duplicates From Sorted Array *
+6)  Move Zeros to End *
+7)  Left rotate by 1
+8)  Left Rotate by D *
+9)  Leaders in Array
+10) Maximum Difference
+11) Frequencies in Sorted   Array *
+12) Sock Buy Sell *
+13) Trapping Rain Water *
+14) Max consecutive ones
+15) Maximum Sub-array Sum **
+16) Longest even odd sub-array **
+17) Minimum Consecutive Flips **
+18) Sliding window technique **
+19) Sub-array with given sum **
+20) Prefix Sum **
+21) Weighted Prefix SUM **
+22) Equilibrium point **
+23) Max Appearing Element **
+24) Majority Element **
+25) Maximum Circular sub-array Sum ***
+26) Max Appearing Element **
+27) Mean and Median of Array **
+28) Check if array is sorted and rotated **
+29) Reverse in groups **
+30) Rearrange array with O(1) ****
+31) Rearrange array  alternately ****
+32) Smallest positive missing ****
+33) Frequencies in a limited Array *
+34) Minimum adjacent difference in circular sub-array ****
+35) Wave Array
+36) Fraction Trouble *
+37) Print Pattern *
+38) Betting Game
+39) Strongest Neighbour
+40)
+
