@@ -1,0 +1,30 @@
+1)  Linear Search
+2)  Binary Search
+3)  Recursive Binary search
+4)  First Occurrence
+5)  Last Occurrence
+6)  count Occurrence
+7)  count Ones
+8)  Square root
+9)  Search in infinite size array
+10) Search in sorted rotated array
+11) Find Peak Element
+12) Two Pointer approach
+13) Triplet in a Sorted Array
+14) Median of Two Sorted Array
+15) Repeating Element
+16) Allocate Minimum Pages
+17) Floor in sorted Array
+18) Majority Element
+19) More than N/K Occurrence
+20) smallest positive missing
+21) Minimum in sorted rotated array
+22) Roof Top
+23) Index of Sub-array sum
+24) Count only Repeated
+25) Two Repeated element
+26) Maximum water between two buildings
+
+
+
+
