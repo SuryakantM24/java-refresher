@@ -1,0 +1,55 @@
+1  Traversing
+2  Recursive Traversal
+3  Insert at begining
+4  Insert at End
+5  Insert at given position **
+6  Delete first Node
+7  Delete Last Node
+8  Search in Linked List (Iterative and Recursive)
+9  Doubly Linked list
+10 Insert at begining of doubly linked list
+11 Insert at End of doubly linked list
+12 Reverse doubly linked list
+13 Delete head of doubly linked list
+14 Delete last of doubly linked list
+15 Circular linked list
+16 insert at beginning of circular linked list
+17 insert at end of circular linked list
+18 Delete head of circular linked list
+19 Delete Kth of circular Linked list
+20 circular doubly linked list
+21 sorted insert in singly linked list
+22 middle of linked list
+23 Nth node end from list
+24 reverse linked list iterative
+25 reverse linked list recursive
+26 remove duplicates from sorted linked list
+27 reverse linked list in groups of k size
+28 detect loop
+29 flyod cycle detection algo
+30 detect and remove loop in linked list
+31 delete node with only pointer
+32 segregate even odd list
+33 intersection point of two linked list
+34 pair wise swap of linked list
+35 clone linkedlist with random pointer
+36 LRU Cache
+37 merge two sorted list
+38 palindromic link list
+39 count ll nodes
+40 find length of loop
+41 doubly linked list  insert at given  position
+42 add number in linked list
+43 swap k nodes from end
+44 delete without head pointer
+45 identical linked list
+46 kth from end of list
+47 merge k sorted list
+48 delete in doubly linked list
+49 join two linked list
+50 is list sorted
+51 middle of circular doubly linked list
+52 is the doubly linked list circular
+
+
+
